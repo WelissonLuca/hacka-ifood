@@ -1,6 +1,9 @@
 import { app } from "../../configs/app";
 import { routes } from "./routes";
+import connection from "../typeorm/index";
 
-app.use(routes)
+connection();
+
+app.use(routes);
 
 app.listen(3333, () => console.log("Server is running"));
