@@ -1,4 +1,4 @@
-# 3º Hackathon iFood - iFood Nutri - Time 7 💡
+# 💡 3º Hackathon iFood - iFood Nutri - Time 7 
 
 <div id="inicio" align=center>
   <a href="#sobre">Sobre</a>&nbsp;&nbsp;
