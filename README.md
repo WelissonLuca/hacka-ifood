@@ -8,9 +8,8 @@
 </div>
 
 <h2 id="sobre">Sobre 🔎</h2>
-  <p>Escrever texto!</p>
-
-  - lista!
+  <p>Este projeto foi desenvolvido para o 3º Hackathon do iFood. A solução que estamos propondo é a inclusão da ferramenta iFood Nutri, no aplicativo.</p>
+  <p>Temos como objetivo acolher diversas particularidades dentro do app e quebrar o paradigma que o iFood é apenas fast food, ele também é saudável e inclusivo. A ideia é que inicialmente funcione como um guia em que você possa definir suas próprias restrições alimentares ou alguma comorbidade que influencie na sua alimentação e com ajuda da IoT e IA, os alimentos sejam sinalizados como impróprios. Além dessa função inicial, para o futuro buscamos que a ferramenta auxilie as pessoas em suas rotinas alimentares, informando e sinalizando a quantidade de calorias, informações nutricionais e montando um planejamento nutricional. Assim quando o usuário for adquirir um produto na vertical de mercado, o mesmo poderá alinhar com a sua dieta previamente cadastrada.</p>
 
 <img src="" alt="" screenshots da solução>
 
@@ -24,7 +23,9 @@
 
   - [x] HTML5
   - [x] CSS3
-  - [x] JavaScript
+  - [x] Node
+  - [X] Typescript
+  - [X] Typeorm
   - [x] API
   - [x] Git
 
