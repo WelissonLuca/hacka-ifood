@@ -32,7 +32,6 @@
 
   - [Milena Katryell - Negócios](https://www.linkedin.com/in/milena-katryell/)
   - [Amanda Albuquerque - Marketing](https://www.linkedin.com/in/amanda-aam/)
-  - [Jhony de Souza - UX Design](https://www.linkedin.com/in/jhonyrdesouza/)
   - [Camille Monteiro - Desenvolvedora Front Jr](https://www.linkedin.com/in/camillemonteiro/)
   - [Welisson Luca - Desenvolvedor Back-end](https://www.linkedin.com/in/welissonluca/)
 
